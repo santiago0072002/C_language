@@ -1,4 +1,4 @@
-# C_language_if_else_statement
+# C_language
 If else statement syntax 
 
 #include<stdio.h>  /* I learned this code by looking at Caleb Curry youtube channel. */
