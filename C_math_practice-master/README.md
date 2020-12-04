@@ -1,0 +1,2 @@
+# C_math_practice
+This is a Math practice project in which the user has three tries to get the correct answer, the program ask you if you want addition, multiplication, division, and subtraction then ask you if you want easy, medium and hard question. at the end, the program adds all the numbers of correct answers and it gives you a percentage of how many correct answers the user had a total. the program took me a few hours. I am just learning C. 
